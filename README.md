@@ -1,2 +1,3 @@
 # hello-world
-just another repo
+hi everybody
+I will be the emperor of computer;
